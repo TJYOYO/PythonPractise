@@ -1,5 +1,13 @@
+"""
+Instance Fields: These are fields tied to a specific instance of a class.
+实例字段：这些字段与类的特定实例相关。
+Class Fields: These are fields shared by all instances of a class.
+类字段：这些字段由类的所有实例共享。
+"""
+
+
 class Person:
-    high = "180"
+    high = "180"  # Class fields
 
     def __init__(self, name, age):
         self.name = name  # instance field
