@@ -25,3 +25,7 @@ print(f"person1.high = {person1.high}")
 
 print(f"person2.age = {person2.age}")
 print(f"person2.high = {person2.high}")
+
+
+print(type(person1.name))
+print(type(person1))
