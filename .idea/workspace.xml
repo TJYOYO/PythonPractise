@@ -5,10 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca13bc03-6bf1-4fd0-b534-934e3585bf5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ListTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test-Input-Output.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test-dict-set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/ListTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File/MyJson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File/Open-Read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File/Read-byte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File/Write-multi-files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File/random.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringTest/Regex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringTest/Regex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI/GUI/MyPygame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI/GUI/MyTkinter-Apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI/UITest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-method/Inherit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-method/Polymorphism-abstractmethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-method/Private-public.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-method/classmethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-method/slots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-method/staticmethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/simple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListTest.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +50,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2imA5mgbkwxAJ4i4eywVntiwYSx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,20 +60,50 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Inherit.executor": "Run",
     "Python.ListTest.executor": "Run",
+    "Python.MyJson.executor": "Run",
+    "Python.MyPygame.executor": "Run",
+    "Python.MyTkinter-Apps.executor": "Run",
+    "Python.MyTkinter.executor": "Run",
+    "Python.Open.executor": "Run",
+    "Python.Polymorphism-abstractmethod.executor": "Run",
+    "Python.Private-public.executor": "Run",
+    "Python.Read-byte.executor": "Run",
+    "Python.Regex.executor": "Run",
+    "Python.Regex2.executor": "Run",
+    "Python.Set.executor": "Run",
     "Python.Test-Input-Output.executor": "Run",
     "Python.TestThread.executor": "Run",
     "Python.TestThreadLock.executor": "Run",
     "Python.Test_Thread.executor": "Run",
     "Python.Test_instance_class_fields.executor": "Run",
+    "Python.Tuple.executor": "Run",
+    "Python.Write-multi-files.executor": "Run",
+    "Python.classmethod.executor": "Run",
+    "Python.dictionaries.executor": "Run",
+    "Python.exception.executor": "Run",
+    "Python.simple.executor": "Run",
+    "Python.slots.executor": "Run",
+    "Python.staticmethod.executor": "Run",
+    "Python.tkinter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/jacktian/Documents/GitHub/PythonPractise",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "last_opened_file_path": "/Users/jacktian/Documents/GitHub/PythonPractise/File",
+    "settings.editor.selected.configurable": "http.proxy"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.ListTest">
-    <configuration name="ListTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/File" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/UI" />
+      <recent name="$PROJECT_DIR$/DataStructure" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Regex2">
+    <configuration name="MyJson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractise" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ListTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File/MyJson.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test-Input-Output" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Read-byte" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractise" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test-Input-Output.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File/Read-byte.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TestThread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Regex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractise" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringTest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestThread.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringTest/Regex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TestThreadLock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Regex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractise" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,11 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringTest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestThreadLock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringTest/Regex2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_instance_class_fields" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="simple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractise" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/net" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_instance_class_fields.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/net/simple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ListTest" />
-        <item itemvalue="Python.Test-Input-Output" />
-        <item itemvalue="Python.TestThreadLock" />
-        <item itemvalue="Python.Test_instance_class_fields" />
-        <item itemvalue="Python.TestThread" />
+        <item itemvalue="Python.Regex2" />
+        <item itemvalue="Python.Regex" />
+        <item itemvalue="Python.simple" />
+        <item itemvalue="Python.MyJson" />
+        <item itemvalue="Python.Read-byte" />
       </list>
     </recent_temporary>
   </component>
@@ -197,5 +251,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/File/MyJson.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
